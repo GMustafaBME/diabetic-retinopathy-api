@@ -1,5 +1,3 @@
-# diabetic-retinopathy-api
-Flask API for Diabetic Retinopathy Detection
 # 🩺 Diabetic Retinopathy Detection API
 
 ## 📌 Overview
