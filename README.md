@@ -29,7 +29,7 @@ cd diabetic-retinopathy-api
 
 ### **3️⃣ Run the Flask API**
 ```bash
-python app.py
+python Diabetic_Retinopathy_Model_Deployment.py
 ```
 
 ### **4️⃣ Use Postman to Send Requests**
