@@ -40,7 +40,7 @@ app = Flask(__name__)
 from pyngrok import ngrok
 
 # ✅ Step 4: Authenticate Ngrok and Start Tunnel
-ngrok.set_auth_token("")  # Replace with your token
+ngrok.set_auth_token("WRITE IT HERE")  # Replace with your token
 public_url = ngrok.connect(5000).public_url
 print(f"🌍 Flask App is Running on: {public_url}")
 
